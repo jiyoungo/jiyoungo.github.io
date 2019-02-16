@@ -9,4 +9,4 @@ header-img: "img/project_banner.png"
 
 ![q1](/img/ITP422/q1.png | width=200)
 
-<img src="/img/ITP422/q1.png" style="width=100%">
+<img src="/img/ITP422/q1.png" style="width:100%">
