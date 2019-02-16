@@ -7,7 +7,7 @@ header-img: "img/project_banner.png"
 
 # This is my project.
 
-<img src="/img/ITP470/sales_ERD.jpeg" style="width:100%">
+<img src="/img/sales_ERD.jpeg" style="width:100%">
 
 [show detail](/pdf/ITP470_ERD.pdf)
 
