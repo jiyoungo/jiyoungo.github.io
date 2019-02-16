@@ -1,5 +1,5 @@
 # Site settings
-title: 
+title: ""
 description: ""
 url: "https://jiyoungo.github.io"
 
@@ -10,7 +10,7 @@ url: "https://jiyoungo.github.io"
 baseurl: "/"
 header-img: img/jiyoung_banner.png
 headercolor: "#FFFFFF"
-logo: 
+logo: ""
 
 # Tertiary Parameters
 github_username:  projectpages
