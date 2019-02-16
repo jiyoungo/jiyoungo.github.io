@@ -1,14 +1,14 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
-url: "https://projectpages.github.io"
+title: EAT WORK SLEEP
+description: "=HAKUNA MATATA"
+url: "https://jiyoungo.github.io"
 
 
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
-header-img: img/home-bg.jpg
+baseurl: "/"
+header-img: img/jiyoung_banner.png
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
