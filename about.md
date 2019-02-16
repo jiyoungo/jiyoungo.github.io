@@ -7,3 +7,4 @@ header-img: "img/about_banner.png"
 
 Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
 	
+![q1](/img/ITP422/q1.png)
