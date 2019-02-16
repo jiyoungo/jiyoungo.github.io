@@ -6,4 +6,4 @@ header-img: "img/project_banner.png"
 ---
 
 # This is my project.
-![digital_marketing.pdf](/pdf/digital_marketing.pdf)
+[digital_marketing.pdf](/pdf/digital_marketing.pdf)
