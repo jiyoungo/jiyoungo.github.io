@@ -11,8 +11,6 @@ header-img: "img/project_banner.png"
 
 <img src="/img/ITP470/q2.png" style="width:100%">
 
-<img src="/img/ITP470/q3.png" style="width:100%">
-
 <img src="/img/ITP470/q4.png" style="width:100%">
 
 <img src="/img/ITP470/q5.png" style="width:100%">
