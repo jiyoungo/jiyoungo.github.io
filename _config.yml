@@ -8,7 +8,7 @@ url: "https://jiyoungo.github.io"
 
 # Secondary Parameters
 baseurl: "/"
-header-img: img/jiyoung_banner_without_text.png
+header-img: "img/home_banner.png"
 headercolor: "#FFFFFF"
 logo: ""
 
