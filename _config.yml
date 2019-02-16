@@ -1,6 +1,6 @@
 # Site settings
-title: EAT WORK SLEEP
-description: "=HAKUNA MATATA"
+title: 
+description: ""
 url: "https://jiyoungo.github.io"
 
 
@@ -10,7 +10,7 @@ url: "https://jiyoungo.github.io"
 baseurl: "/"
 header-img: img/jiyoung_banner.png
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: 
 
 # Tertiary Parameters
 github_username:  projectpages
