@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project"
+title: "SAP Project"
 description: "Accounting, Information System and Database."
 header-img: "img/project_banner.png"
 ---
