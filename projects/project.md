@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project"
-description: "Description of Project #1"
+description: "Accounting, Information System and Database."
 header-img: "img/project_banner.png"
 ---
 
