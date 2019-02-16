@@ -1,11 +1,16 @@
 ---
 layout: page
-title: "SALES ERD Project"
+title: "Sales Project"
 description: "Accounting, Information System and Database."
 header-img: "img/project_banner.png"
 ---
 
 # This is my project.
+
+<img src="/img/ITP470/sales_ERD.jpeg" style="width:100%">
+
+[show detail](/pdf/ITP470_ERD.pdf)
+
 
 <img src="/img/ITP470/q1.png" style="width:100%">
 

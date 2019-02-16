@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Digital Marketing"
+title: "Digital Marketing Project"
 description: "Accounting, Information System and Database."
 header-img: "img/project_banner.png"
 ---
