@@ -3,7 +3,6 @@ layout: project
 title: "Project"
 description: "Description of Project #1"
 header-img: "img/home-bg.jpg"
-category: project1
 ---
 
-This is my project.
+# This is my project.
