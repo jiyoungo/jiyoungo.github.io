@@ -7,9 +7,11 @@ header-img: "img/project_banner.png"
 
 # This is my project.
 
-<img src="/img/sales_ERD.jpeg" style="width:100%">
+<img src="/img/sales_ERD.jpeg" style="width:100%; border:1px solid black;">
 
-[show detail](/pdf/ITP470_ERD.pdf)
+<a href="/pdf/ITP470_ERD.pdf" style="color:red; font-weight: bold;"> 
+    show detail 
+</a>
 
 
 <img src="/img/ITP470/q1.png" style="width:100%">
