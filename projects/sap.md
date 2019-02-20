@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "SAP Project"
+title: "SAP"
 description: "Accounting, Information System and Database."
 header-img: "img/project_banner.png"
 ---
-
-# This is my project.
 
 <img src="/img/ITP422/q1.png" style="width:100%">
 
