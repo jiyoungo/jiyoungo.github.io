@@ -14,4 +14,5 @@ header-img: "img/about_banner.png"
 <img src="/img/motto/jiyoung-motto-image07.png" style="width:18%">
 <img src="/img/motto/jiyoung-motto-image08.png" style="width:18%">
 <img src="/img/motto/jiyoung-motto-image09.jpeg" style="width:18%">
+<img src="/img/motto/jiyoung-motto-image10.jpeg" style="width:18%">
 	
