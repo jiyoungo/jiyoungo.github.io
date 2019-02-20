@@ -5,5 +5,7 @@ description: "Accounting, Information System and Database."
 header-img: "img/project_banner.png"
 ---
 
-<img src="/img/digital_marketing.png" style="width:100%;">
-[digital_marketing.pdf](/pdf/digital_marketing.pdf)
+<a href="/pdf/digital_marketing.pdf" style="color:red; font-weight: bold;"> 
+    <img src="/img/digital_marketing.png" style="width:100%;">
+    show detail
+</a>
