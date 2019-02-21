@@ -9,8 +9,8 @@ header-img: "img/project_banner.png"
 Using master data, the ERD diagram was created in MySQL Workbench. ERD model allowed to connect all data in customer, product, unit, and date and calculate a necessary output as needed. Screenshots below show the queries and the result. 
 
 <a href="/pdf/ITP470_ERD.pdf" style="color:red; font-weight: bold;"> 
+    show detail
     <img src="/img/sales_ERD.jpeg" style="width:100%; border:1px solid black;">
-    show detail 
 </a>
 
 
