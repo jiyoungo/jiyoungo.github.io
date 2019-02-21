@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "SAP"
-description: "Accounting, Information System and Database."
+description: ""
 header-img: "img/project_banner.png"
 ---
+# Project Description 
+:This project was designed to create the organizational structure, rules, and master data required for warehouse management. Screenshots below show the result of configurations and the financial statement.
 
 <img src="/img/ITP422/q1.png" style="width:100%">
 
